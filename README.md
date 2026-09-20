@@ -3,7 +3,7 @@
 ### Odoo Technical Developer | ERP Customization | Integrations
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="120" alt="Odoo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="120" alt="Odoo"/>
 </p>
 
 I'm an **Odoo Technical Developer** focused on building, customizing, and improving ERP solutions that align with real business workflows.
@@ -34,52 +34,42 @@ I work across **Odoo development, custom modules, integrations, reporting, workf
 <a href="https://www.odoo.com/" target="_blank">
 <img src="https://cdn.simpleicons.org/odoo/714B67" width="45" alt="Odoo"/>
 </a>
- 
 
 <a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.simpleicons.org/python/3776AB" width="45" alt="Python"/>
 </a>
- 
 
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="45" alt="PostgreSQL"/>
 </a>
- 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="45" alt="JavaScript"/>
 </a>
- 
 
 <a href="https://www.w3.org/XML/" target="_blank">
 <img src="https://cdn.simpleicons.org/xml/005FAD" width="45" alt="XML"/>
 </a>
- 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="45" alt="HTML5"/>
 </a>
- 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img src="https://cdn.simpleicons.org/css/1572B6" width="45" alt="CSS3"/>
 </a>
- 
 
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.simpleicons.org/git/F05032" width="45" alt="Git"/>
 </a>
- 
 
 <a href="https://github.com/" target="_blank">
 <img src="https://cdn.simpleicons.org/github/181717" width="45" alt="GitHub"/>
 </a>
- 
 
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" alt="Docker"/>
 </a>
- 
 
 <a href="https://www.postman.com/" target="_blank">
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45" alt="Postman"/>
@@ -102,6 +92,12 @@ PyCharm · Postman · Asana
 ---
 
 ## 📌 Selected Projects
+
+> **🔒 Client Confidentiality Notice**
+>
+> Due to **NDA and client confidentiality agreements**, the source code, screenshots, repositories, and complete project details of some client projects cannot be publicly displayed.
+>
+> However, I can **walk through the projects, explain the technical architecture, workflows, customizations, integrations, and my contributions** during a **Google Meet or Zoom call**, where appropriate and permitted.
 
 ### Mega Wholesale LLC
 
@@ -149,9 +145,9 @@ Worked on Odoo implementations, customizations, and integrations across multiple
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sulaiman-haider-web-developer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sulaiman%20Haider-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/sulaiman-haider-web-developer/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Sulaiman%20Haider-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
 📧 **Email:** [sulaimanhaider.sabir@gmail.com](mailto:sulaimanhaider.sabir@gmail.com)
