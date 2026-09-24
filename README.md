@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Sulaiman Haider 👋
 
-### Odoo Technical Developer | ERP Customization | Integrations
+### Odoo Technofunctional Developer | ERP Customization | Integrations
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" width="120" alt="Odoo"/>
